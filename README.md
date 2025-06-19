@@ -4,7 +4,7 @@ I'm a student and a beginner C++ developer. I recently built a simple Task Manag
 
 ## 🚀 Projects
 - **Task Manager in C++** – My first project to help organize tasks using C++!
-- **Spinach Plant Growth Predictor**-
+- **Spinach Plant Growth Predictor**-Python based machine learning model that helps predict the leaf count of spinach
 
 ## 📚 What I'm Learning
 - C++ fundamentals
