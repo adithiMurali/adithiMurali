@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Adithi 👋
 
-<!--
-**adithiMurali/adithiMurali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student and a beginner C++ developer. I recently built a simple Task Manager project and I'm learning more every day. I enjoy coding, exploring new technologies, and building things that make life easier.
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- **Task Manager in C++** – My first project to help organize tasks using C++!
+- **Spinach Plant Growth Predictor**-
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 What I'm Learning
+- C++ fundamentals
+- Data structures and algorithms
+- Version control with Git & GitHub
+
+## 🌱 Goals
+- Build more projects in C++
+- Learn about file handling and OOP
+- Collaborate with other developers
+
+## 📫 How to reach me
+- [adithim2801@gmail.com]
+
+Thanks for visiting my profile! 😊
