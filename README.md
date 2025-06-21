@@ -22,8 +22,6 @@ Welcome to my digital lair! Here’s everything you never knew you wanted to kno
 - My spirit animal is a panda 🐼—equal parts chill and unexpectedly resourceful. (ALSO I NAP ALOT)
 - Sometimes my code is like Kevin’s chili: a beautiful mess—best enjoyed in small portions.
 - I still think “Hello, World!” is the best icebreaker.
-- I can segfault faster than Michael Scott can say, “That’s what she said.”
-- My favorite algorithm is “trial and error.” Just like Michael’s management strategy.
 - I may not be assistant to the regional manager, but I am assistant to the really cute monkey stuffy on my desk
 
 ## 🚀 My Motto
