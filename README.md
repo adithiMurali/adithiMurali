@@ -27,6 +27,7 @@ Welcome to my digital lair! Here’s everything you never knew you wanted to kno
 ## 🚀 My Motto
 
 > "Code like nobody's watching. Because usually, nobody is.And it's okay to not know everything."
+> ![Michael]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJ2dGV4MnhocnZ6Mm5icG9yN3pwd2c5bmUxZ2Y3OHd3M3BtaTNteCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cXblnKXr2BQOaYnTni/giphy.gif))
 
 ---
 
