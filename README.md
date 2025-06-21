@@ -4,7 +4,7 @@ Welcome to my digital lair! Here’s everything you never knew you wanted to kno
 
 ## 🧑‍💻 About Me
 
-- 🌟 **Code Alchemist** – I turn coffee into C and C++ code (and sometimes just into coffee).
+- 🌟 **Code Alchemist** – I turn cold coffee into C and C++ code (and sometimes just into coffee).
 - 🧩 **Problem Solver in Training** – Currently on a quest to master the art of breaking down problems (and sometimes, my code).
 - 🌱 **Lifelong Learner** – Learning how to keep my pointers straight, my bugs at bay, and my logic sound.  
   *(If only debugging was as easy as Michael declaring bankruptcy.)*
@@ -18,7 +18,7 @@ Welcome to my digital lair! Here’s everything you never knew you wanted to kno
 
 ## 🦄 Fun Facts
 
-- I believe semicolons are optional, but coffee is not.
+- I believe semicolons are optional, but cold coffee is not.
 - My spirit animal is a panda 🐼—equal parts chill and unexpectedly resourceful. (ALSO I NAP ALOT)
 - Sometimes my code is like Kevin’s chili: a beautiful mess—best enjoyed in small portions.
 - I still think “Hello, World!” is the best icebreaker.
